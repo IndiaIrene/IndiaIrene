@@ -1,6 +1,6 @@
 # Hi, I'm India 
 
-## 🚀 About MeI’m currently focusing on GRC while building and implementing foundational cybersecurity skills.
+## 🚀 I’m currently focusing on GRC while building and implementing foundational cybersecurity skills.
 
 ## 🔐 GRC Projects
 - Risk Assessments
