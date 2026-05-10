@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm India 
 
-<!--
-**IndiaIrene/IndiaIrene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About MeI’m currently focusing on GRC while building and implementing foundational cybersecurity skills.
 
-Here are some ideas to get you started:
+## 🔐 GRC Projects
+- Risk Assessments
+- Security Policies
+- Compliance Frameworks (NIST, ISO)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Networking Labs
+- Cisco Packet Tracer Labs
+- VLAN & Routing Configurations
+- Subnetting Practice
+
+## 🛠 Tools & Skills
+- Cisco Packet Tracer
+- Networking Fundamentals
+- Risk Analysis
+- Security Frameworks
+
+## 📌 Featured Projects
+- [Packet Tracer Labs](https://github.com/YOURUSERNAME/packet-tracer-labs)
+- [GRC Projects](https://github.com/YOURUSERNAME/grc-projects)
